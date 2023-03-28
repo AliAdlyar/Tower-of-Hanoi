@@ -72,7 +72,8 @@ namespace Console_UI
 				{
 					var key = Console.ReadKey();
 					if (key.Key == ConsoleKey.R)
-						cont = true;
+						break;
+
 					else if (key.Key == ConsoleKey.Escape)
 					{
 						Console.Write(' ');
@@ -84,14 +85,11 @@ namespace Console_UI
 						Console.Write(' ');
 						Console.SetCursorPosition(0, Console.CursorTop);
 					}
-					if (cont)
-					{
-						cont = false;
-						break;
-					}
-				}
-			}
+
+                }
+            }
 		}
+
 
 		static void UIMode()
 		{

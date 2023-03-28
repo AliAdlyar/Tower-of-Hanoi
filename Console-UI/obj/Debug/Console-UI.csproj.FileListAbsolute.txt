@@ -1,0 +1,52 @@
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\Tower of Hanoi.exe.config
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\Tower of Hanoi.exe
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\Tower of Hanoi.pdb
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\UI.baml
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\UI.g.cs
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\App.g.cs
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi_MarkupCompile.cache
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi_MarkupCompile.lref
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\App.baml
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi.g.resources
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Console_UI.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi.exe
+C:\Users\HP\OneDrive\Desktop\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi.pdb
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\Tower of Hanoi.exe.config
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\Tower of Hanoi.exe
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\Tower of Hanoi.pdb
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignColors.dll
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignColors.pdb
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.AssemblyReference.cache
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.SuggestedBindingRedirects.cache
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\UI.baml
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\UI.g.cs
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\App.g.cs
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi_MarkupCompile.cache
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi_MarkupCompile.lref
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\App.baml
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi.g.resources
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Console_UI.Properties.Resources.resources
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.GenerateResource.cache
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.CoreCompileInputs.cache
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Console-UI.csproj.CopyComplete
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi.exe
+D:\Shahed University\دروس ترم دانشگاه\دروس ترم4\حل‌تمرین ساختمان داده\Tower of Hanoi\Console-UI\obj\Debug\Tower of Hanoi.pdb
